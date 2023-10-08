@@ -1,7 +1,7 @@
 # Wordle_Clone
 
 ## Wordle Clone using Python
-Wordle is an interesting word game available on the official website of [New York Times] (https://www.nytimes.com/games/wordle/index.html).
+Wordle is an interesting word game available on the official website of [New York Times](https://www.nytimes.com/games/wordle/index.html).
 This repository contains the code for the clone I have created of Wordle.
 The code base is totally in python and the module used in creating this clone of Wordle is pygame.
 Pygame is a cross-platform set of Python modules designed for writing video games.
