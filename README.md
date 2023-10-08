@@ -1,5 +1,7 @@
 # Wordle_Clone
 
+![Screenshot (113)](https://github.com/CHIRAGWADKAR/Wordle_Clone/assets/89576084/1d3d68bc-9f29-4e02-95bc-598e51c4339b)
+
 ## Wordle Clone using Python
 Wordle is an interesting word game available on the official website of [New York Times](https://www.nytimes.com/games/wordle/index.html).
 This repository contains the code for the clone I have created of Wordle.
